@@ -1,2 +1,2 @@
-# slack_application
-Creating slack chat bot 
+# Python script
+Automation made easy
